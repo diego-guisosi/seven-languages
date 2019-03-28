@@ -50,3 +50,4 @@ def print_colors(colors={})
 end
 
 print_colors(:red => 0xA9A9, :blue => 0xFFFF)
+print_colors(red: 0xA9A9, blue: 0xFFFF)
